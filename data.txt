@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 text data Lorem Ipsum
+=======
+text data change 2
+>>>>>>> branch1
